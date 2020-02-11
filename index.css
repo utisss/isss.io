@@ -1,0 +1,61 @@
+html, body {
+	background-color: black;
+}
+
+.header {
+	margin: auto;
+	margin-top: 24px;
+	margin-bottom: 48px;
+}
+
+a {
+	color: white;
+	text-decoration: underline;
+}
+
+p, h1, h2, h3 {
+	color: white;
+}
+
+h1 {
+	margin-top: 24px;
+	margin-bottom: 12px;
+}
+
+h2 {
+	font-family: "Inconsolata";	
+	font-size: 24px;
+	margin-top: 24px; margin-bottom: 12px;
+}
+
+p {
+	font-family: "Inconsolata";
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+
+li {
+	font-family: "Inconsolata";
+	font-size: 16px;
+	color: white;
+}
+
+.logo {
+ 	max-width: 100%;
+ 	max-height: 300px;
+ 	float: center;
+ 	margin: 12px;
+}
+
+.splash {
+	width: 100%;
+}
+
+.btn {
+	width: 148px;
+	margin: 6px;
+	background-color: #212121;
+	margin-bottom: 12px;
+	text-decoration: none;
+}
