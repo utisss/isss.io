@@ -7,8 +7,7 @@ Redirect 301 /discord https://discord.com/invite/8Pn2mHA
 Redirect 301 /twitter https://twitter.com/utisss
 Redirect 301 /youtube https://www.youtube.com/channel/UCofdfNbVHmhmYhSQriJhLag
 
-Redirect 301 /utctfdiscord https://discord.gg/uY5mVEAAVc
-Redirect 301 /utctfsurvey https://forms.gle/WekUo63zzUKy9xia6
+Redirect 301 /cyberstart https://forms.gle/jYHkkKH9QdSSw7Mv8
 
 Redirect 301 /calendar https://calendar.google.com/calendar/b/4?cid=dXRleGFzaXNzc0BnbWFpbC5jb20
 Redirect 301 /zoom https://utexas.zoom.us/j/91863719320
@@ -20,6 +19,7 @@ Redirect 301 /github https://github.com/utisss
 RedirectMatch 301 ^/github/(.+?)?$ https://github.com/utisss/$1
 RedirectMatch 301 ^/talks/(.+?)?$ https://github.com/utisss/talks/blob/master/$1
 Redirect 301 /talks https://github.com/utisss/talks/
+Redirect 301 /videos https://drive.google.com/drive/folders/1fE5Ab4f3PZfswaY-aDVag1HIKGvW4R6B?usp=sharing
 
 Redirect 301 /mail https://utlists.utexas.edu/sympa/subscribe/isss
 Redirect 301 /mailinglist https://utlists.utexas.edu/sympa/subscribe/isss
