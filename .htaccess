@@ -13,7 +13,7 @@ Redirect 301 /calendar https://calendar.google.com/calendar/b/4?cid=dXRleGFzaXNz
 Redirect 301 /zoom https://utexas.zoom.us/j/96509003681
 Redirect 301 /mail https://utlists.utexas.edu/sympa/subscribe/isss
 
-Redirect 301 /mentorship https://forms.gle/ZDAXZjxaZUT4wVpU7
+Redirect 301 /mentorship https://forms.gle/VbP3STsXWc6be1Rx7
 Redirect 301 /hash https://discord.gg/MY6AVg9J3X
 
 Redirect 301 /github https://github.com/utisss
