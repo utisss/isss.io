@@ -11,7 +11,7 @@ Redirect 301 /cyberstart https://forms.gle/jYHkkKH9QdSSw7Mv8
 
 Redirect 301 /calendar https://calendar.google.com/calendar/b/4?cid=dXRleGFzaXNzc0BnbWFpbC5jb20
 Redirect 301 /zoom https://utexas.zoom.us/j/98433562497
-Redirect 301 /mail https://utlists.utexas.edu/sympa/subscribe/isss
+Redirect 301 /mail https://eepurl.com/hV33fP
 
 Redirect 301 /mentorship https://forms.gle/VbP3STsXWc6be1Rx7
 Redirect 301 /hash https://discord.gg/MY6AVg9J3X
