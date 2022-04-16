@@ -24,7 +24,5 @@ RedirectMatch 301 ^/talks/(.+?)?$ https://github.com/utisss/talks/blob/master/$1
 Redirect 301 /talks https://github.com/utisss/talks/
 Redirect 301 /videos https://drive.google.com/drive/folders/1fE5Ab4f3PZfswaY-aDVag1HIKGvW4R6B?usp=sharing
 
-Redirect 301 /mail https://utlists.utexas.edu/sympa/subscribe/isss
-Redirect 301 /mailinglist https://utlists.utexas.edu/sympa/subscribe/isss
-Redirect 301 /feedback https://forms.gle/T5pqXVFq5K86An3T7
+Redirect 301 /feedback https://forms.gle/SZyVTspp2iu5N6uF9
 Redirect 301 /join https://forms.gle/C6ug9vt4XP8ApHvr7
