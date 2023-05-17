@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteRule ^([^\.]+)$ $1.html [NC,L]
+# RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
 Redirect 301 /fb https://www.facebook.com/groups/utisss/
 Redirect 301 /facebook https://www.facebook.com/groups/utisss/
@@ -15,7 +15,6 @@ Redirect 301 /calendar https://calendar.google.com/calendar/b/4?cid=dXRleGFzaXNz
 Redirect 301 /zoom https://utexas.zoom.us/j/98433562497
 Redirect 301 /mail https://eepurl.com/hV33fP
 
-Redirect 301 /mentorship https://forms.gle/VbP3STsXWc6be1Rx7
 Redirect 301 /hash https://discord.gg/MY6AVg9J3X
 
 Redirect 301 /github https://github.com/utisss
@@ -26,3 +25,5 @@ Redirect 301 /videos https://drive.google.com/drive/folders/1fE5Ab4f3PZfswaY-aDV
 
 Redirect 301 /feedback https://forms.gle/SZyVTspp2iu5N6uF9
 Redirect 301 /join https://forms.gle/C6ug9vt4XP8ApHvr7
+
+Redirect 302 /apply https://docs.google.com/forms/d/e/1FAIpQLSeQjJAsAWafxMHQjVgQzxfL_uOtqdr7uo6RdrlusYhEmyMbDw/viewform?usp=sf_link
