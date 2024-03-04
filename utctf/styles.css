@@ -90,6 +90,18 @@ h2 {
   margin-top:12px;
 }
 
+li {
+	font-family: "Inconsolata";
+	font-size: 16px;
+	color: white;
+}
+
+ul { 
+	font-family: "Inconsolata";
+	font-size: 16px;
+	color: white; 
+}
+
 #flickertext {
 	-webkit-animation-name: flicker;
 	-webkit-animation-duration: 3s;
