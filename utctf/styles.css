@@ -91,15 +91,15 @@ h2 {
 }
 
 li {
+	-webkit-font-smoothing: antialiased;
 	font-family: "Inconsolata";
 	font-size: 16px;
-	color: white;
 }
 
 ul { 
+	-webkit-font-smoothing: antialiased;
 	font-family: "Inconsolata";
 	font-size: 16px;
-	color: white; 
 }
 
 #flickertext {
