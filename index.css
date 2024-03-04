@@ -50,6 +50,11 @@ li {
 	color: white;
 }
 
+ul{ font-family: "Inconsolata";
+	font-size: 16px;
+	color: white; 
+  }
+
 .logo {
  	max-width: 100%;
  	max-height: 375px;
